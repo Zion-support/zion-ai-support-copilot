@@ -1,10 +1,11 @@
-# Zion AI Support Copilot
+# 🔗 Zion App Network
 
-Agent-assist for support teams.
+Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) · [ai-customer-experience-hub](https://github.com/Zion-support/ai-customer-experience-hub) · [zion-ai-knowledge-base](https://github.com/Zion-support/zion-ai-knowledge-base) · [zion-ai-chatbot-builder](https://github.com/Zion-support/zion-ai-chatbot-builder)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-knowledge-base](https://github.com/Zion-support/zion-ai-knowledge-base) · [ai-customer-experience-hub](https://github.com/Zion-support/ai-customer-experience-hub)
